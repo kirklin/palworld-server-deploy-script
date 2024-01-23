@@ -1,6 +1,8 @@
 # Palworld Server Deployment Script
 # 幻兽帕鲁 (Palworld)服务器一键部署脚本
 
+This is a convenient one-click deployment script designed to facilitate the setup of a Palworld server. Before using it, make sure you have created a server account named "steam" If not, follow these steps:
+***
 这是一个方便快捷的一键部署脚本，旨在为幻兽帕鲁服务器的搭建提供便利。在使用之前，请确保你已经创建了一个名为 "steam" 的服务器账号。如果没有，请按照以下步骤创建：
 
 1. 执行以下命令创建 "steam" 账号，并设置密码：
