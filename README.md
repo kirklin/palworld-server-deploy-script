@@ -34,6 +34,11 @@
 4. 下载执行部署脚本:
 [install.sh](./install.sh)
 
+远程安装指令：
+ ```bash
+    wget -O - https://github.com/kirklin/palworld-server-deploy-script/raw/main/install.sh | sh
+ ```
+
 ## 注意事项
 
 如果你使用云服务器，确保开放8211端口防火墙规则。这是游戏服务器通信所需的端口。
